@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class TestNGExample2 {
 	
-	
+	// this is before method
 	@BeforeMethod
 	public void BeforeMethod(){
 		System.out.println("Before Method");

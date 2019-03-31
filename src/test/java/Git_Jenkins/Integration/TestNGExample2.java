@@ -12,6 +12,7 @@ public class TestNGExample2 {
 		System.out.println("Before Method");
 	}
 	
+	// this is a comment
 	@AfterMethod
 	public void AfterMethod(){
 		System.out.println("After Method");
